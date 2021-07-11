@@ -1,4 +1,4 @@
-script_version('07.07.2021')
+script_version('09.07.2021')
 script_author("Grey_Garcia")
 
 local nalogovaya = 0
